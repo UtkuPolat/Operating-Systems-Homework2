@@ -1,0 +1,189 @@
+    1  cd Desktop/
+    2  cd Birthday
+    3  cd birthday/
+    4  make
+    5  sudo insmod simple-solution.ko
+    6  dmsg
+    7  dmesg
+    8  lsmod
+    9  sudo rmmod
+   10  sudo rmmod simple_solution.ko
+   11  dmesg
+   12  lsmod
+   13  cd Desktop/
+   14  gedit abc.c
+   15  cd Desktop/
+   16  cd process/
+   17  ls
+   18  gedit process.c 
+   19  make 
+   20  sudo insmod process.ko
+   21  lsmod
+   22  dmesg
+   23  rmmod process.ko
+   24  sudo rmmod process.ko
+   25  lsmod
+   26  gedit process.c
+   27  cd ..
+   28  şs
+   29  ls
+   30  cd sheell/
+   31  gedit simple-shell.c 
+   32  gcc simple-shell.c 
+   33  ./a.out
+   34  gcc simple-shell.c -o cmpe431
+   35  ./cmpe431
+   36  ./cmpe431 
+   37  ./a.out 
+   38  gedit simple-shell.c 
+   39  cd Desktop/
+   40  cd PCB
+   41  ls
+   42  gedit Solution_Lab5.c 
+   43  cd ..
+   44  cd PCB/
+   45  gedit simple-homework.c
+   46  cd Desktop/
+   47  cd COMPE431-Homework_1/
+   48  ls
+   49  make
+   50  ls
+   51  sudo insmod simple-homework.ko
+   52  ls
+   53  dmesg
+   54  make
+   55  sudo insmod simple-homework.ko
+   56  dmesg
+   57  make
+   58  sudo insmod simple-homework.ko
+   59  dmseg
+   60  dmesg
+   61  lsmod
+   62  sudo rmmod simple_homework.ko
+   63  dmesg
+   64  sudo rmmod simple_homework.ko
+   65  insmod
+   66  lsmod
+   67  cd Desktop/
+   68  cd COMPE431-Homework_1/
+   69  ls
+   70  make
+   71  ls
+   72  sudo insmod simple-homework.ko
+   73  dmesg
+   74  cd Desktop/
+   75  cd COMPE431-Homework_1/
+   76  ls
+   77  gedit simple-homework.c 
+   78  make
+   79  ls
+   80  sudo insmod simple-homework.ko
+   81  ls
+   82  dmesg
+   83  lsmod
+   84  sudo rmmod simple_homework.ko
+   85  dmesg
+   86  cd Desktop/
+   87  cd COMPE431-Homework_1/
+   88  ls
+   89  make
+   90  cd Desktop/
+   91  cd COMPE431-Homework_1/
+   92  ls
+   93  gedit simple-homework.c 
+   94  make
+   95  ls
+   96  sudo insmod simple-homework.ko
+   97  ls
+   98  dmesg
+   99  lsmod
+  100  sudo rmmod simple_homework.ko
+  101  dmesg
+  102  history
+  103  history >History_Homework_1
+  104  sudo usermod -aG vboxsf <os>
+  105  sudo usermod -aG vboxsf 
+  106  sudo usermod -aG Utku_POLAT_160302001_Hw1.zi 
+  107  os
+  108  cd Desktop/
+  109  cd process/
+  110  ls
+  111  make
+  112  sudo insmod process.ko
+  113  lsmod
+  114  dmesg
+  115  gedit process.c
+  116  sudo rmmod process.ko
+  117  clear
+  118  cd ..
+  119  cd PCB
+  120  ls
+  121  gedit Solution_Lab5.c 
+  122  make
+  123  sudo insmod process.ko
+  124  lsmod
+  125  dmesg
+  126  sudo insmod process.ko
+  127  lsmod
+  128  cd Desktop/
+  129  cd COMPE431_Hw-2/
+  130  make
+  131  sudo insmod xyz.ko
+  132  dmesg
+  133  ps -elf
+  134  cd Desktop/
+  135  cd COMPE431_Hw-2/
+  136  make
+  137  sudo insmod xyz.ko
+  138  dmesg
+  139  sudo rmmod xyz.ko
+  140  clear
+  141  make
+  142  sudo insmod xyz.ko
+  143  dmesg
+  144  cd Desktop/
+  145  cd COMPE431_Hw-2/
+  146  LS
+  147  ls
+  148  gedit xyz.c 
+  149  make
+  150  sudo insmod xyz.ko
+  151  lsmod
+  152  dmesg
+  153  sudo rmmod xyz.ko
+  154  gedit xyz.c
+  155  make
+  156  sudo insmod xyz.ko
+  157  lsmod
+  158  dmesg
+  159  cd Desktop/
+  160  cd COMPE431_Hw-2/
+  161  sudo rmmod xyz.ko
+  162  gedit xyz.c
+  163  make
+  164  sudo insmod xyz.ko
+  165  lsmod
+  166  dmesg
+  167  lsmod
+  168  sudo rmmod xyz.ko
+  169  lsmod
+  170  cd Desktop/
+  171  cd COMPE431_Hw-2/
+  172  make
+  173  sudo insmod xyz.ko
+  174  lsmod
+  175  dmesg
+  176  sudo rmmod xyz.ko
+  177  lsmod
+  178  cd Desktop/
+  179  cd COMPE431_Hw-2/
+  180  ls
+  181  gedit xyz.c 
+  182  make 
+  183  sudo insmod xyz.ko
+  184  lsmod
+  185  dmesg
+  186  sudo rmmod xyz.ko
+  187  clear
+  188  history
+  189  history > historyOutput
